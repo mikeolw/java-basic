@@ -59,7 +59,7 @@ public class Variable {
         for (int i = 0; i < 3; i++) {
             System.out.println(i);         // for 블록 내부에서 사용
         }
-        // System.out.println(i);          //  for 블록 벗어남
+        // System.out.println(i);          //  for 블록 벗어남 
     }
     
     // 메서드명: 동사로 시작, 카멜케이스
