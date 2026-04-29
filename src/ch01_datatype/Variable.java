@@ -32,6 +32,13 @@ public class Variable {
         int $price = 5000;           // '$' 사용 가능
         String 이름 = "이명수";       // 한글 가능 (비권장)
         
+        System.out.println(age);
+        System.out.println(userName);
+        System.out.println(totalScore);
+        System.out.println(user_id);
+        System.out.println($price);
+        System.out.println(이름);
+        
         // ===== 잘못된 변수명 (컴파일 에러) =====
         // int 2ndPlace = 2;         //  숫자로 시작 불가
         // String user-name = "a";   //  '-' 사용 불가
